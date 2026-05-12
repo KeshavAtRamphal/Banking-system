@@ -1,8 +1,6 @@
 Assignment: PROGRAMMING 621 ASSIGNMENTSystem: 
 Multi-Branch Banking Management SystemName: 
 Keshav Ramphal 
-Student No: 402503605
-Date: April 2026
 
 HOW TO COMPILE AND RUNCOMPILATION
 
